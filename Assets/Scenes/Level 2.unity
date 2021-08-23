@@ -461,6 +461,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8075831934156302306, guid: 027c1024c7c117149a0babadce0dce24, type: 3}
+      propertyPath: gameSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8075831934156302306, guid: 027c1024c7c117149a0babadce0dce24, type: 3}
+      propertyPath: isAutoPlayEnabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8075831934156302307, guid: 027c1024c7c117149a0babadce0dce24, type: 3}
       propertyPath: m_Name
       value: Game Session
